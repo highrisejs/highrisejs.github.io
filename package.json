@@ -1,0 +1,23 @@
+{
+  "name": "highrisejs",
+  "version": "0.0.0",
+  "description": "Github page of highrisejs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/highrisejs/highrisejs.github.io"
+  },
+  "author": "Dominik Burgdörfer <db@domachine.de>",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jade": "^0.14.1",
+    "grunt-contrib-less": "^0.11.4",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-tasks": "^3.1.0",
+    "marked": "^0.3.3"
+  }
+}
